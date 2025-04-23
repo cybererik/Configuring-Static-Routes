@@ -3,11 +3,13 @@
 ![Screenshot 2025-04-18 213048](https://github.com/user-attachments/assets/3d23f7ed-cb46-4da5-9803-e877fe6a6f13)
 
 ## Lab Overview
-- **Lab Purpose:**
+- **Lab Purpose:**  
+  To understand and implement static routing in a multi-router network using Cisco Packet Tracer. This lab simulates real-world routing configurations where administrators manually define routes for packet delivery.
 
-
-- **Lab Objective:**
-
+- **Lab Objective:**  
+  - Configure IP addresses on router interfaces.  
+  - Establish connectivity between three routers (R1, R2, R3) using static routes.  
+  - Verify end-to-end communication between devices in different networks.  
 
 -----
 
