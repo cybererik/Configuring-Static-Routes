@@ -12,7 +12,7 @@
 -----
 
 ## Router Configuration
-You can view the full CLI configuration for the Cisco routers in this [Gist on GitHub](https://gist.github.com/cybererik/4214923b42a61303b291760c5f184c4c).
+You can view the full CLI configuration for the Cisco routers in this [Gist on GitHub](https://gist.github.com/cybererik/671312dbf8936f64d9468071aa3612da).
 
 ---
 
