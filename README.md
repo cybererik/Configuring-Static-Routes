@@ -77,46 +77,6 @@ The `g0/0` interface connects to R2, which knows how to reach R1.
 ### Context:
 Even though R3 is only directly connected to R2 and PC2’s network, the static route ensures that return traffic from PC2 to PC1 can be sent back through R2 to R1.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ------
 
 ## ✅ Verification
